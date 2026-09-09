@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assighnment no:8</title>
+</head>
+<body>
+<center>
+    <h1>CHESS BOARD</h1>
+<table border="1">
+    <tr>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9820;</center></font></td>    
+        <td style="padding: 15px;"><font size="8"><center>&#9822;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9821;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9818;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9818;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9821;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9822;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9820;</center></font></td>
+    </tr>
+    <tr>
+        <td style="padding: 15px;"><font size="8"><center>&#9823;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9823;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9823;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9823;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9823;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9823;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9823;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9823;</center></font></td>
+    </tr>
+    <tr>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+    </tr>
+    <tr>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+    </tr>
+    <tr>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9817;</center></font></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+    </tr>
+    <tr>
+         <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 50px;"></td>
+        <td bgcolor="brown" style="padding: 50px;"></td>
+    </tr>
+    <tr>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9817;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9817;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9817;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9817;</center></font></td>
+       <td bgcolor="brown" style="padding: 50px;"></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9817;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9817;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9817;</center></font></td>
+    </tr>
+    <tr>
+        <td style="padding: 15px;"><font size="8"><center>&#9814;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9816;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9815;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9812;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9813;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9815;</center></font></td>
+        <td style="padding: 15px;"><font size="8"><center>&#9816;</center></font></td>
+        <td bgcolor="brown" style="padding: 15px;"><font size="8"><center>&#9814;</center></font></td>
+    </tr>
+</table>
+</center>   
+</body>
+</html>
